@@ -3,6 +3,8 @@
  
 ## Basic Architecture
 
+![alt text](https://github.com/saurabhrc15/UHI_Innovation_Challenge_5_Plus91_Final_Submission/blob/main/img/SpeechToTextArchitecture.png?raw=true)
+
 ## Command Supported
 
 1. Prescription:
