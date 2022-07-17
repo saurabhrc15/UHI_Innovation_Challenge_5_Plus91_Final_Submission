@@ -1,0 +1,48 @@
+{
+  "name": "Prescription_Speect_Asst",
+  "authors": [
+    "Shubham Chavan <shubham.chavan@plus91.in>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "assets",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.4.1",
+    "knockout": "~3.5.1",
+    "jquery": "~3.5.1",
+    "bootstrap-datepicker": "~1.6.0",
+    "font-awesome": "fontawesome#~4.5.0",
+    "malihu-custom-scrollbar-plugin": "~3.1.3",
+    "animate.css": "animate-css#~3.5.1",
+    "select2": "~4.0.2",
+    "salvattore": "~1.0.9",
+    "iCheck": "~1.0.2",
+    "moment": "~2.13.0",
+    "fullcalendar": "~2.7.1",
+    "jquery-ui": "^1.12.1",
+    "bootstrap-timepicker": "~0.5.2",
+    "growl": "^1.3.1",
+    "noty": "^3.1.4",
+    "typeahead.js": "~0.11.1",
+    "datatables": "~1.10.10",
+    "x-editable": "~1.5.1",
+    "pnotify": "~3.0.0",
+    "bootstrap-daterangepicker": "^2.1.25",
+    "jstree": "~3.3.0",
+    "c3": "^0.6.1",
+    "gasparesganga-jquery-loading-overlay": "^2.0.1"
+  },
+  "resolutions": { 
+    "jquery": "3.5.1" 
+  }
+}
